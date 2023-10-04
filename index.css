@@ -55,7 +55,7 @@ h2 {
   padding: 12px;
 }
 
-img {
+img, video {
   width: 80vw;
   max-width: 500px;
   max-height: 500px;
