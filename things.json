@@ -1,7 +1,10 @@
 {
-  "wear a bracelet to jam microphones": "<img src='https://sandlab.cs.uchicago.edu/jammer/imgs/implementation.png'/>",
-  "use a collective account instead of an individual one": "<img src='https://media.gq.com/photos/6232699e2fa7b1dbdd4d3bea/3:2/w_2532,h_1688,c_limit/netflixandnope.jpg'/>",
-  "network tab": "<img src='https://wd.imgix.net/image/BrQidfK9jaQyIHwdw91aVpkPiib2/2jZjKEtRSz6qSatQqRMA.png?auto=format&w=1600'/>",
-  "publish zines": "<img src='https://pbs.twimg.com/media/DzAJbFfUYAADi16?format=jpg&name=900x900'/>",
-  "mesh network messaging": "FireChat<br><a href='https://firechat.en.softonic.com/iphone'>download now!!!</a>"
+  "add to fire": "<video controls loop><source src=https://iguannalin.github.io/spam/assets/howtocookspam.mov type=video/quicktime>Your browser does not support the video tag.</video><br>",
+  "digest it": "<img src='https://iguannalin.github.io/spam/assets/musubi.png'/>",
+  "do research on it": "<video controls loop><source src=https://iguannalin.github.io/spam/assets/spamfactory.mov type=video/quicktime>Your browser does not support the video tag.</video><br>",
+  "look at it": "<img src='https://iguannalin.github.io/spam/assets/SpamLiteLogo.png'/>",
+  "look at it more": "<img src='https://iguannalin.github.io/spam/assets/SpamClassicLogo.png'/>",
+  "start a collection": "<a href='https://www.amazon.com/Spam-Classic-Ounce-Can-Pack/dp/B001EQ5NHE'>Buy now!</a><br><img src='https://iguannalin.github.io/spam/assets/holeton-figurski-spam.png'/>",
+  "abstain completely": "<img src='https://iguannalin.github.io/spam/assets/spam.png'/>",
+  "ruminate": "<img src='https://iguannalin.github.io/spam/assets/spamonaplate.png'/>"
 }
