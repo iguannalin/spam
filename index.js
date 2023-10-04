@@ -22,7 +22,7 @@ window.addEventListener("load", () => {
       link.style.top = rh+"px";
     }, 50);
     link.onclick = () => {
-      const text = `<!doctypehtml><title>how-to with spam</title><meta charset=utf-8><meta content="width=device-width,initial-scale=1"name=viewport><link href=https://iguannalin.github.io/ctw/how-to/index.css rel=stylesheet><script src=https://iguannalin.github.io/ctw/how-to/spam.js></script><div data-key=${btoa(key)} data-value=${btoa(value)} id=container></div>`;
+      const text = `<!doctypehtml><title>how-to live with spam</title><meta charset=utf-8><meta content="width=device-width,initial-scale=1"name=viewport><link href=https://iguannalin.github.io/spam/index.css rel=stylesheet><script src=https://iguannalin.github.io/spam/spam.js></script><div data-key=${btoa(key)} data-value=${btoa(value)} id=container></div>`;
       const blob = new Blob([text], {type: "text/html"});
       const blobUrl = URL.createObjectURL(blob);
       window.open(blobUrl, "_blank", `popup,location,status,scrollbars,resizable,width=400, height=400, left=${getRandomInt(0,500)}, top=${getRandomInt(0,500)}`);
@@ -32,7 +32,7 @@ window.addEventListener("load", () => {
     document.body.appendChild(link);
   }
 
-  fetch("https://iguannalin.github.io/ctw/how-to/things.json").then((r) => r.json()).then((d) => {
+  fetch("https://iguannalin.github.io/spam/things.json").then((r) => r.json()).then((d) => {
     Object.keys(d).forEach((key) => {
       display(key, d[key]);
     });
